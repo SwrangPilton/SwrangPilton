@@ -13,6 +13,11 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
+
+---
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="250" height="250">
+
  
 ### 👋 Hello there, I’m Pilton Swrang
 
