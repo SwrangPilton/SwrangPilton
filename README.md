@@ -24,6 +24,7 @@
 ##### 👀 I’m interested in Web developement
 ##### 🌱 I’m currently learning DSA
 ##### 💞️ I’m looking to collaborate on a ReactJS project
+##### 👨‍🦰 I like exploring new places and cooking
 ##### 📫 How to reach me swrangpilton@gmail.com
 
 --- 
