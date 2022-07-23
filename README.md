@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @SwrangPilton
-- 👀 I’m interested in Web developement
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on a ReactJS project
-- 📫 How to reach me swrangpilton@gmail.com
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<center>
+  <p> - 👋 Hi, I’m @SwrangPilton</p>
+  - 👀 I’m interested in Web developement
+  - 🌱 I’m currently learning DSA
+  - 💞️ I’m looking to collaborate on a ReactJS project
+  - 📫 How to reach me swrangpilton@gmail.com
+</center>
+
+
 
 <div id="badges">
   <a href="your-linkedin-URL">
