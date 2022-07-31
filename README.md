@@ -66,7 +66,7 @@
 
 ### :fire: My Top Languages :
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwrangPilton&theme=dark&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwrangPilton&theme=gruvbox)](https://github.com/SwrangPilton)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swrangpilton&theme=gruvbox)](https://github.com/SwrangPilton)
 
 ### :fire: My Top Repo :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwrangPilton&repo=frontend&theme=onedark )](https://github.com/SwrangPilton/frontend)
