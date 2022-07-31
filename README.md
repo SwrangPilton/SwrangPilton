@@ -12,6 +12,13 @@
     <a href="https://twitter.com/SwrangPilton">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+     <a href="https://leetcode.com/PiltonSwrang/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Twitter Badge"/>
+    </a>
+     <a href="https://www.hackerrank.com/swrangpilton">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    
 </div>
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
